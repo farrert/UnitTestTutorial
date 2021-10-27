@@ -1,0 +1,16 @@
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\12313\Desktop\CIT 255\UnitTesting\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
